@@ -12,8 +12,14 @@
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Task 3) Calculate ways to choose k integers from a given array
+ Task 3) Calculate ways to choose k integers from a given array
  
  [Solution](https://github.com/KKhushhalR2405/AlgoNOOB/blob/master/ways%20to%20choose%20k%20integres%20from%20array.py)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Task 4) Given a string and a dictionary containing list of word, write a function to break the strings into valid words. Print all such valid sentences.
+ 
+ [Solution](https://github.com/KKhushhalR2405/AlgoNOOB/blob/master/word%20break.py)
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
