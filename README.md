@@ -11,3 +11,9 @@
  [Solution](https://github.com/KKhushhalR2405/AlgoNOOB/blob/master/anagram%20of%20string.py)
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Task 3) Calculate ways to choose k integers from a given array
+ 
+ [Solution](https://github.com/KKhushhalR2405/AlgoNOOB/blob/master/ways%20to%20choose%20k%20integres%20from%20array.py)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
