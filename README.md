@@ -24,7 +24,7 @@
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Task 5) Given a sorted array A and an integer x, floor value of x is the largest element in the array which is smaller than or equal to x.
+Task 5) Given a sorted array A and an integer x, Find the floor value of x. Floor value of x is the largest element in the array which is smaller than or equal to x.
  
  [Solution](https://github.com/KKhushhalR2405/AlgoNOOB/blob/master/findfloorvalue.py)
  
