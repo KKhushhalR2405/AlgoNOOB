@@ -23,3 +23,9 @@
  [Solution](https://github.com/KKhushhalR2405/AlgoNOOB/blob/master/word%20break.py)
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Task 5) Given a string and a dictionary containing list of word, write a function to break the strings into valid words. Print all such valid sentences.
+ 
+ [Solution](https://github.com/KKhushhalR2405/AlgoNOOB/blob/master/word%20break.py)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
